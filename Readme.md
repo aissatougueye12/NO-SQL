@@ -28,22 +28,13 @@ Voici les manipulations couvertes par les script que je mets à jour au fil des 
    - Ajouter et supprimer des membres.
    - Vérifier l'appartenance et la taille.
 
-5. **Ensembles triés (Sorted Sets)** :
+5. **Ensembles ordonnés (Sorted Sets)** :
    - Ajouter des éléments avec des scores.
    - Récupérer des éléments classés.
 
 6. **Hachages (Hashes)** :
    - Gérer des champs et leurs valeurs.
    - Supprimer et vérifier des champs.
-
-7. **Transactions Redis** :
-   - Garantir l'exécution atomique de plusieurs commandes.
-
-8. **Scripts Lua** :
-   - Exemple d'incrémentation via un script Lua.
-
-9. **Sauvegarde et persistance** :
-   - Sauvegarder les données en mémoire sur disque.
 
 ## Utilisation
 
