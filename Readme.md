@@ -36,8 +36,14 @@ Voici les manipulations couvertes par les script que je mets à jour au fil des 
    - Gérer des champs et leurs valeurs.
    - Supprimer et vérifier des champs.
 
+### TP4: MapReduce avec CouchDB
+
+1. **Exercice 1** 
+2. **Exercice 1** 
+
 ## Utilisation
 
+### TP1
 1. Lancez le serveur Redis :
    ```bash
    redis-server
